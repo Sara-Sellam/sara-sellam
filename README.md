@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on my PhD in Physics at CERN’s LHCb experiment, focusing on large-scale data analysis and machine learning.<br><br>🤝 I’m looking to collaborate on data science and analytics projects where I can apply my skills in Python, C++ and ML.<br><br>🧠 I’m looking for help with transitioning from academia to data science roles in industry.<br><br>📚 I’m currently learning advanced ML techniques and improving my skills in data visualization.<br><br>❓ Ask me about analyzing huge datasets, particle physics, or machine learning workflows.<br><br>☕ Fun fact: My best ideas usually appear after the second coffee, not the first.
+💻 I’m currently finishing my PhD in Particle Physics at CERN’s LHCb experiment, focusing on large-scale data analysis and machine learning.<br><br>🤝 I’m looking to collaborate on data science and analytics projects where I can apply my skills in Python, C++ and ML.<br><br>🧠 I’m looking for help with transitioning from academia to data science roles in industry.<br><br>📚 I’m currently learning advanced ML techniques and improving my skills in data visualization.<br><br>❓ Ask me about analyzing huge datasets, particle physics, or machine learning workflows.<br><br>☕ Fun fact: My best ideas usually appear after the second coffee, not the first.
 
 
 # 💻 Tech Stack:
